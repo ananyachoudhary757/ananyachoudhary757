@@ -1,16 +1,18 @@
-## Hi there 👋
+## Welcome to My GitHub Profile! 👋
+# About Me
+I am a dedicated Bachelor of Computer Applications (BCA) student with a strong passion for programming and technology. My primary skills include:
+Programming Languages: Java, C++, Python
+Areas of Interest: Web Development, Software Engineering
+I am committed to continuous learning and professional growth in the tech industry.
 
-<!--
-**ananyachoudhary757/ananyachoudhary757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+C++: Skilled in object-oriented programming and system-level programming.
+Python: Experienced in scripting, automation, and data analysis.
+Web Development: Familiar with HTML, CSS, JavaScript, and web frameworks.
 
-Here are some ideas to get you started:
+# Contact Me
+Feel free to reach out if you want to collaborate on projects, have any questions, or just want to connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: ananya2c2@gmail.com
+LinkedIn: https://www.linkedin.com/in/ananya-choudhary-468695269/
+
