@@ -7,7 +7,9 @@ I am committed to continuous learning and professional growth in the tech indust
 
 # Skills
 C++: Skilled in object-oriented programming and system-level programming.
+<br>
 Python: Experienced in scripting, automation, and data analysis.
+<br>
 Web Development: Familiar with HTML, CSS, JavaScript, and web frameworks.
 
 # Contact Me
