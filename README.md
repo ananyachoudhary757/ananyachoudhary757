@@ -6,7 +6,7 @@ Areas of Interest: Web Development, AI,Machine Learning.
 I am committed to continuous learning and professional growth in the tech industry.
 
 # Skills
-C++: Skilled in object-oriented programming and system-level programming.
+C: Skilled in object-oriented programming and system-level programming.
 <br>
 Python: Experienced in scripting, automation, and data analysis.
 <br>
