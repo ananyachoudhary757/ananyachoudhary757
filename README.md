@@ -3,7 +3,7 @@
 Welcome to my BCA Projects Portfolio! I am a dedicated Bachelor of Computer Applications (BCA) student with a strong passion for programming and technology.Here you'll find various projects I’ve worked on throughout my Bachelor of Computer Applications (BCA) program. I have worked on various technologies such as **C Programming**, **Web Development (HTML, CSS, JS)**, **Python**, and **Data Structures & Algorithms (DSA)** with C.
 <br><br>**Programming Languages:** Python, Web development and C
 <br>
-**Areas of Interest:** Python,AI and Web development.
+**Areas of Interest:** Python,AI and Web development.<br>
 I am committed to continuous learning and professional growth in the tech industry. 
 
 # Skills
