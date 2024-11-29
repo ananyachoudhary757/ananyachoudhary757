@@ -6,11 +6,13 @@ Areas of Interest: Web Development, AI,Machine Learning.
 I am committed to continuous learning and professional growth in the tech industry.
 
 # Skills
-C: Skilled in object-oriented programming and system-level programming.
+**Languages**: C, Python, JavaScript
 <br>
-Python: Experienced in scripting, automation, and data analysis.
-<br>
-Web Development: Familiar with HTML, CSS, JavaScript, and web frameworks.
+**Web Development**: HTML, CSS, JavaScript
+  <br>
+**Tools & Technologies**: Git, GitHub, VSCode, Chrome DevTools, etc.
+  <br>
+**Data Structures & Algorithms**: Arrays, Linked Lists, Trees, Sorting Algorithms, etc.
 
 # Contact Me
 Feel free to reach out if you want to collaborate on projects, have any questions, or just want to connect!
