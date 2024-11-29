@@ -1,9 +1,11 @@
 ## Welcome to My GitHub Profile! 👋
 # About Me
-I am a dedicated Bachelor of Computer Applications (BCA) student with a strong passion for programming and technology. My primary skills include:
-Programming Languages: Web devlopment, C, Python.
-Areas of Interest: Web Development, AI,Machine Learning. 
-I am committed to continuous learning and professional growth in the tech industry.
+Welcome to my BCA Projects Portfolio! I am a dedicated Bachelor of Computer Applications (BCA) student with a strong passion for programming and technology.Here you'll find various projects I’ve worked on throughout my Bachelor of Computer Applications (BCA) program. I have worked on various technologies such as **C Programming**, **Web Development (HTML, CSS, JS)**, **Python**, and **Data Structures & Algorithms (DSA)** with C.
+<br> My primary skills include:
+Programming Languages: Web development, C, Python.
+<br>
+Areas of Interest: Python,AI and Web development.
+I am committed to continuous learning and professional growth in the tech industry. 
 
 # Skills
 **Languages**: C, Python, JavaScript
